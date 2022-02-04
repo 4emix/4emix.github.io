@@ -112,49 +112,49 @@
                 <div class="row">
                     <div class="col-lg-3 col-md-4 col-xs-6">
                         <div class="portfolio-item">
-                            <img src="assets/img/portfolio-1.jpg" class="img-res" alt="">
+                            <img src="assets/img/cats.jpg" class="img-res" alt="">
                             <h4 class="portfolio-item-title">Bir tanım değildir, tanımsız da değildir: Bi Aşk Söylemi</h4>
                             <a href="blog-post1.html"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
                         </div><!-- /.portfolio-item -->
                     </div>
                     <div class="col-lg-3 col-md-4 col-xs-6">
                         <div class="portfolio-item">
-                            <img src="assets/img/portfolio-2.jpg" class="img-res" alt="">
+                            <img src="assets/img/ırmak.jpg" class="img-res" alt="">
                             <h4 class="portfolio-item-title">Güzelim Irmak, fakat amacından sıyrılmış bir yazı</h4>
                             <a href="blog-post2.html"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
                         </div><!-- /.portfolio-item -->
                     </div>
                     <div class="col-lg-3 col-md-4 col-xs-6">
                         <div class="portfolio-item">
-                            <img src="assets/img/portfolio-3.jpg" class="img-res" alt="">
+                            <img src="assets/img/known.jpg" class="img-res" alt="">
                             <h4 class="portfolio-item-title">16 Ocak 2020, solmadan bir önceki kış</h4>
                             <a href="blog-post3.html"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
                         </div><!-- /.portfolio-item -->
                     </div>
                     <div class="col-lg-3 col-md-4 col-xs-6">
                         <div class="portfolio-item">
-                            <img src="assets/img/portfolio-4.jpg" class="img-res" alt="">
+                            <img src="assets/img/space.jpg" class="img-res" alt="">
                             <h4 class="portfolio-item-title">Hangi zam’anlar?</h4>
                             <a href="blog-post4.html"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
                         </div><!-- /.portfolio-item -->
                     </div>
                     <div class="col-lg-3 col-md-4 col-xs-6">
                         <div class="portfolio-item">
-                            <img src="assets/img/waves.jpg" class="img-res" alt="">
+                            <img src="assets/img/kabuk.jpg" class="img-res" alt="">
                             <h4 class="portfolio-item-title">Hiçbir zaman kabuk bağlayamayacak bir yaranın sesidir: kış karakterinin donuk beyazlığına inat renkleriyle var olan.</h4>
                             <a href="blog-post5.html"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
                         </div><!-- /.portfolio-item -->
                     </div>
                     <div class="col-lg-3 col-md-4 col-xs-6">
                         <div class="portfolio-item">
-                            <img src="assets/img/des.jpg" class="img-res" alt="">
+                            <img src="assets/img/cemal.jpg" class="img-res" alt="">
                             <h4 class="portfolio-item-title">beni öp sonra doğur beni – cemal’im süreya</h4>
                             <a href="blog-post6.html"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
                         </div><!-- /.portfolio-item -->
                     </div>
                     <div class="col-lg-3 col-md-4 col-xs-6">
                         <div class="portfolio-item">
-                            <img src="assets/img/tres.jpg" class="img-res" alt="">
+                            <img src="assets/img/mevsim.jpg" class="img-res" alt="">
                             <h4 class="portfolio-item-title">Bir insanı kaybetmek</h4>
                             <a href="blog-post7.html"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
                         </div><!-- /.portfolio-item -->
@@ -204,7 +204,7 @@
                     </div>
                     <div class="col-xs-4">
                         <div class="text-right">
-                            <p>&copy; GYP</p>
+                            <p>&copy; Sylvia</p>
                             <p>All Rights Reserved</p>
                         </div>
                     </div>
