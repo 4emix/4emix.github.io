@@ -7,7 +7,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Blog | Sylvia'nın Ceketi</title>
+    <title>Bi Aşk Söylemi | Sylvia'nın Ceketi</title>
 
     <meta name="description" content="">
     <meta name="author" content="">
@@ -63,12 +63,12 @@
                         <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages<i class="fa fa-caret-down hidden-xs" aria-hidden="true"></i></a>
 
                             <ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
+                              <li><a href="portfolio.html">Portfolio</a></li>
                               <li><a href="blog.html">Blog</a></li>
                             </ul>
 
                         </li>
-                        <li class="active"><a href="blog.html">Blog</a></li>
-                    
+                        <li class="active"><a href="blog.html">Blog</a></li>                       
                     </ul>
 
                 </div>
@@ -80,10 +80,11 @@
     <div id="hero" class="hero overlay subpage-hero blog-hero">
         <div class="hero-content">
             <div class="hero-text">
-                <h1>Blog</h1>
+                <h1>Bir Aşk Söylemi</h1>
                 <ol class="breadcrumb">
-                  <li class="breadcrumb-item"><a href="#">Home</a></li>
-                  <li class="breadcrumb-item active">Blog</li>
+                  <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                  <li class="breadcrumb-item"><a href="blog.html">Blog</a></li>
+                  <li class="breadcrumb-item active">Bir Aşk Söylemi</li>
                 </ol>
             </div><!-- /.hero-text -->
         </div><!-- /.hero-content -->
@@ -96,69 +97,48 @@
                 <div class="row">
                     <div class="col-md-8">
                         <article class="blog-post">
-                            <a href="blog-post1.html">
-                                <img src="assets/img/cats.jpg" class="img-res" alt="">
-                            </a>
+                            <img src="assets/img/cats.jpg" class="img-res" alt="">
                             <div class="post-content">
-                                <h3 class="post-title"><a href="blog-post1.html">Bir tanım değildir, tanımsız da değildir: Bi Aşk Söylemi</a></h3>
-                                <div class="text-right">
-                                    <a class="read-more" href="blog-post1.html">Oku</a>
-                                </div>
+                                <h2 class="post-title">Bir tanım değildir, tanımsız da değildir: Bi Aşk Söylemi</h2>
+									<p class="has-text-align-right">Aşkı tanımlamak zordur; tanımlamamak, tanımlamadan böyle kalmasına izin vermek de öyle. </p>
+									<p class="has-text-align-right"><em><strong>Ogni cosa e sia molto semplice che molto complessa. </strong></em></p>
+									<p class="has-text-align-right"><em><strong>Her şey hem çok karmaşıktır hem de çok basit.</strong> </em></p>
+									<p class="has-text-align-right">Değerlerin neye benzedikleri üzerinden onları tanımlamaya çalışmanın içlemsel olarak tanımlarının yapılamayacağı problemini bir nebze çözmüş olduğunu düşünüyorum. </p>
+									<p class="has-text-align-right">Gözler kapalıyken ve bir salıncakta sallanırken en tepeye ulaşmayı ve eski hale geri dönmeyi, bazen hızlanan bazen yavaşlayan hareketleri barındıran tüm bu anları, harmonik davranışa, bir tam salınım haline benzetebilir miyiz? </p>
+									<p class="has-text-align-right">Bazı bazı bir farkında olmama durumudur, belki de. </p>
+									<p class="has-text-align-right">Aşkın büyüklüğüne ve büyüleyiciliğine, ışıldayan özgünlüğüne, herkesle biricikleşmesine kapılıp romansı, özdeyişsel sanrılarla dolu hayatımıza devam ederiz. </p>
+									<p class="has-text-align-right">Bizi öyle etkilemiştir ki, bütünüyle içimize hapsetmek isteriz, koruyup daim olması için çabalarız tüm varlığımızla. </p>
+									<p class="has-text-align-right">Fakat, sahiden de, öyle büyüktür ki içimize sığmaz, o aşk. </p>
+									<p class="has-text-align-right">Karşımızdaki insanın hisleri dediğimiz şey de aslında içimizde hapsetmeye çalıştığımız aşkın bizden taşıp ona çarpması ve bize geri yansımasıdır diyebilir miyiz?</p>
+									<p class="has-text-align-right">Bizi böylesine büyülemesine neden olarak da bu aşkın bizden çıkışını fark edemeyişimizi öne sürebiliriz, belki de.</p>
+									
+									
+									
                             </div><!-- /.post-content -->
                         </article><!-- /.blog-post -->
-                        <article class="blog-post">
-                            <a href="blog-post2.html">
-                                <img src="assets/img/portfolio-2.jpg" class="img-res" alt="">
-                            </a>
-                            <div class="post-content">
-                                <h3 class="post-title"><a href="blog-post2.html">Güzelim Irmak, fakat amacından sıyrılmış bir yazı</a></h3>
-                                <div class="text-right">
-                                    <a class="read-more" href="blog-post2.html">Oku</a>
-                                </div>
-                            </div><!-- /.post-content -->
-                        </article><!-- /.blog-post -->
-                        <div class="ui-pagination mt-50">
-                            <div class="row">
-                                <div class="col-md-12 text-center">
-                                    <ul class="pagination">
-                                        <li class="active"><a href="#">1</a></li>
-                                        <li><a href="#">2</a></li>
-                                        <li class="more"><a href="#">...</a></li>
-                                        <li><a href="#">&gt;</a></li>
-                                        <li><a href="#">&gt;&gt;</a></li>
-                                    </ul><!-- /.pagination -->               
-                                </div>
-                            </div>
-                        </div><!-- /.ui-pagination -->
                     </div>
                     <aside class="col-md-4">
                         <div class="sidebar">
                             <div class="widget widget-recent-posts">
-                                <h4 class="widget-title">Önerilen Yazılar</h4>
+                                <h4 class="widget-title">Recent posts</h4>
                                 <ul class="list-unstyled">
-                                    <li><a href="blog-post2.html">Güzelim Irmak</a></li>
-                                    <li><a href="blog-post3.html">Kış</a></li>
-                                    <li><a href="blog-post4.html">Hangi Zam'anlar?</a></li>
-                                    <li><a href="blog-post5.html">Kabuk</a></li>
-                                    <li><a href="blog-post6.html">Cemal</a></li>
+                                    <li><a href="#">Inside The Lipsum</a></li>
+                                    <li><a href="#">Oscar Wilde</a></li>
+                                    <li><a href="#">Jeffrey Ween</a></li>
+                                    <li><a href="#">Responsive Design</a></li>
+                                    <li><a href="#">Development</a></li>
                                 </ul>
                             </div><!-- /.widget-recent-posts -->
                             <div class="widget widget-categories">
-                                <h4 class="widget-title">Diğerleri</h4>
+                                <h4 class="widget-title">Categories</h4>
                                 <ul class="list-unstyled">
-                                    <li><a href="blog-post7.html">Kayetmek </a></li>
-                                    <li><a href="blog-post8.html">Bilmek</a></li>
-                                    <li><a href="inde.html">Yakında</a></li>
-                                    <li><a href="inde.html">Yakında</a></li>
-                                    <li><a href="inde.html">Yakında</a></li>
+                                    <li><a href="#">Inside The Lipsum <span>12</span></a></li>
+                                    <li><a href="#">Oscar Wilde<span>4</span></a></li>
+                                    <li><a href="#">Jeffrey Ween<span>2</span></a></li>
+                                    <li><a href="#">Responsive Design<span>1</span></a></li>
+                                    <li><a href="#">Development<span>9</span></a></li>
                                 </ul>
                             </div><!-- /.widget-categories -->
-                            <div class="widget widget-tags">
-                                <h4 class="widget-title">Hızlı git</h4>
-                                <ul class="list-unstyled">
-                                    <li><a href="index.html">Home</a></li>
-                                    <li class="active"><a href="blog.html">Blog</a></li>
-                                </ul>
                             </div><!-- /.widget-tags -->
                         </div><!-- /.sidebar -->
                     </aside>
