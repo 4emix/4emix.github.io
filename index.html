@@ -42,8 +42,6 @@
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-    <link href="style_dark.css"
-        rel="stylesheet" id="theme-link">
 </head>
 <body>
 
@@ -63,7 +61,6 @@
 
                         <li class="active"><a href="index.html" data-toggle="dropdown">Home</a></li>
                         <li aria-hidden="true"></i></a>
-                        <button class="btn-toggle">Koyu Tema</button>
 
                             <ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
                               <li><a href="portfolio.html">Portfolio</a></li>
@@ -74,18 +71,6 @@
                         <li><a href="blog.html">Blog</a></li>
 
                     </ul>
-                    <script>
-                        const btn = document.querySelector(".btn-toggle");
-                        const theme = document.querySelector("#theme-link");
-                        btn.addEventListener("click", function() {
-                          // Swap out the URL for the different stylesheets
-                          if (theme.getAttribute("href") == "style.css") {
-                            theme.href = "style_dark.css";
-                          } else {
-                            theme.href = "style.css";
-                          }
-                        });
-                      </script>
 
                 </div>
 
