@@ -738,7 +738,7 @@ html, body {
 .slicknav_open .slicknav_arrow,
 .slicknav_nav > li a:hover {
     background-color: transparent;
-    color: #00ADB5;
+    color: #8264af;
 }
 
 .navbar-toggle {
@@ -1024,7 +1024,7 @@ html, body {
     top: 0;
     right: 100%;
     bottom: 0;
-    background-color: #00ADB5;
+    background-color: #8264af;
     transition: right 0.25s ease-in-out;
     -moz-transition: right 0.25s ease-in-out;
     -webkit-transition: right 0.25s ease-in-out;
@@ -1168,7 +1168,7 @@ html, body {
 
 .list-unstyled li a:hover,
 .list-unstyled li.active a {
-    color: #00ADB5;
+    color: #8264af;
 }
 
 /* Copyright */
