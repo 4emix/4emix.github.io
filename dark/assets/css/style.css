@@ -709,7 +709,11 @@ html, body {
 }
 
 .site-header-white .navbar-nav > li > a,
-.site-header-white .site-title .site-title2 {
+.site-header-white .site-title {
+    color: #fff;
+}
+
+.site-title2 {
     color: #fff;
 }
 
