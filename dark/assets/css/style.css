@@ -1032,10 +1032,6 @@ html, body {
     -ms-transition: right 0.25s ease-in-out;
 }
 
-.portfolio-item:hover:before {
-    right: 25%;
-}
-
 .portfolio-item-title,
 .portfolio-item a {
     position: absolute;
@@ -1055,27 +1051,12 @@ html, body {
     -ms-transition: left 0.25s ease-in-out, opacity 0.25s ease-in-out;
 }
 
-.portfolio-item:hover .portfolio-item-title {
-    left: 15px;
-    opacity: 1;
-}
-
 .portfolio-item a {
     bottom: 15px;
     color: #26272d;
     padding: 5px 12px;
     border: 1px solid #26272d;
     border-radius: 50px;
-}
-
-.portfolio-item:hover a {
-    left: 55%;
-    opacity: 1;
-}
-
-.portfolio-item a:hover {
-    background-color: #26272d;
-    color: #fff;
 }
 
 .portfolio-item a i {
