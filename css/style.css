@@ -214,7 +214,7 @@ button {
 }
 
 .layout_padding {
-     padding-top: 90px;
+     padding-top: 160px;
      padding-bottom: 0px;
 }
 
@@ -242,13 +242,13 @@ button {
     text-transform: uppercase;
 }
 .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
-    color: #ffb607;
+    color: #FFA319;
 }
 .call_text {
     width: 100%;
     float: left;
     font-size: 18px;
-    color: #ffb607;
+    color: #FFA319;
     padding-top: 10px;
 }
 
@@ -270,7 +270,7 @@ button {
     color: #000;
 }
 .search_icon li a:hover{
-    color: #ffb607;
+    color: #FFA319;
 }
 .navbar-expand-lg .navbar-nav .nav-link {
     padding-right: 20px;
@@ -296,7 +296,7 @@ button {
     float: left;
     background-image: url(../images/image4.jpeg);
     height: auto;
-    padding-bottom: 50px;
+    padding-bottom: 160px;
     background-size: 100%;
     background-repeat: no-repeat;
 }
@@ -335,7 +335,7 @@ button {
     float: left;
     font-size: 18px;
     color: #ffffff;
-    background-color: #ffb607;
+    background-color: #FFA319;
     text-align: center;
     padding: 10px 0px;
     border-radius: 5px;
@@ -440,7 +440,7 @@ button {
     float: left;
     font-size: 18px;
     color: #ffffff;
-    background-color: #ffb607;
+    background-color: #FFA319;
     text-align: center;
     padding: 10px 0px;
     border-radius: 5px;
@@ -453,7 +453,7 @@ button {
 .about_section{
     width: 100%;
     float: left;
-    background-color: #ffb607;
+    background-color: #FFA319;
     height: auto;
     padding-bottom: 90px;
 }
@@ -815,7 +815,7 @@ a:hover {
 .carousel-indicators li {
     width: 20px;
     height: 20px;
-    background-color: #ffb607;
+    background-color: #FFA319;
     border-radius: 20px;
 }
 .carousel-indicators .active {
