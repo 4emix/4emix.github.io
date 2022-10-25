@@ -218,6 +218,10 @@ button {
      padding-bottom: 0px;
 }
 
+.layout_padding2 {
+    padding-top: 65px;
+    padding-bottom: 0px;
+}
 .padding_0{
      padding: 0px;
 }
@@ -770,7 +774,7 @@ a:hover {
 .clients_section2{
     width: 100%;
     float: left;
-    padding-top: 70px;
+    padding-top: 45px;
 }
 .client_1{
     width: 60%;
