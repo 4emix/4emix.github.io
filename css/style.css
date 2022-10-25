@@ -427,6 +427,7 @@ button {
     text-align: center;
     margin-left: 0px;
     margin-top: 10px;
+    margin-bottom: 20px;
 }
 
 .read_bt_main{
@@ -595,6 +596,7 @@ a:hover {
     color: #121111;
     margin-top: 10px;
     margin-left: 0px;
+    margin-bottom: 50px;
 }
 .who_section{
     width: 100%;
@@ -772,6 +774,12 @@ a:hover {
     text-align: center;
 }
 .clients_section2{
+    width: 100%;
+    float: left;
+    padding-top: 70px;
+}
+
+.clients_section99{
     width: 100%;
     float: left;
     padding-top: 45px;
