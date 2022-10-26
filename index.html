@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="tr">
    <head>
       <!-- basic -->
       <meta charset="utf-8">
@@ -9,7 +9,8 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta name="viewport" content="initial-scale=1, maximum-scale=1">
       <!-- site metas -->
-      <title>Built Better</title>
+      <title>Hacettepe Yapı Topluluğu</title>
+      <link rel = "icon" href = "images/img11.png" type = "image/x-icon">
       <meta name="keywords" content="">
       <meta name="description" content="">
       <meta name="author" content="">
@@ -42,23 +43,24 @@
                <div class="collapse navbar-collapse" id="navbarSupportedContent">
                   <ul class="navbar-nav mr-auto">
                      <li class="nav-item">
-                        <a class="nav-link" href="index.html">Ana Sayfa</a>
+                        <a class="nav-link" href="#top">Ana Sayfa</a>
                      </li>
                      <li class="nav-item">
-                        <a class="nav-link" href="about.html">Hakkımızda</a>
+                        <a class="nav-link" href="#hak">Hakkımızda</a>
                      </li>
                      <li class="nav-item">
                         <a class="nav-link" href="contact.html">İletişim</a>
                      </li>
+                     <li class="nav-item">
+                        <a class="nav-link" href="#aet">Ana Etkinlikler</a>
+                     </li>
+                     <li class="nav-item">
+                        <a class="nav-link" href="#who">Biz kimiz?</a>
+                     </li>
+                     <li class="nav-item">
+                        <a class="nav-link" href="#det">Diğer Etkinlikler</a>
+                     </li>
                   </ul>
-                  <form class="form-inline my-2 my-lg-0">
-                     <h1 class="call_text"></h1>
-                  </form>
-                  <div class="search_icon">
-                     <ul>
-                        <li><a href="#"><img src="images/search-icon.png"></a></li>
-                        <li><a href="#"></a></li>
-                     </ul>
                   </div>
                </div>
             </nav>
@@ -116,7 +118,7 @@
       </div>
       <!-- services section end -->
       <!-- about section start -->
-      <div class="about_section layout_padding2">
+      <div id="hak" class="about_section layout_padding2">
          <div class="container">
             <div class="row">
                <div class="col-md-6">
@@ -132,10 +134,10 @@
       </div>
       <!-- about section end -->
       <!-- furnitures section start -->
-      <div class="furnitures_section layout_padding2">
+      <div id="aet" class="furnitures_section layout_padding2">
          <div class="container">
             <h1 class="our_text">Ana Etkinliklerimiz</h1>
-            <p class="ipsum_text">There are many variations of passages of Lorem Ipsum </p>
+            <p class="ipsum_text">Her sene düzenli olarak çıkardığımız etkinlikler </p>
             <div class="furnitures_section2 layout_padding2">
                <div class="row">
                   <div class="col-md-6">
@@ -172,7 +174,7 @@
       </div>
       <!-- furnitures section end -->
       <!-- who section start -->
-      <div class="who_section layout_padding2">
+      <div id="who" class="who_section layout_padding2">
          <div class="container">
             <h1 class="who_taital">biz kimiz?</h1>
             <h4 class="designer_text">yapıyla ilgilenen herkes</h4>
@@ -187,7 +189,7 @@
       </div>
       <!-- who section end -->
       <!-- projects section start -->
-      <div class="projects_section layout_padding2">
+      <div id="det" class="projects_section layout_padding2">
          <div class="container">
             <h1 class="our_text">Diğer Etkinliklerimiz</h1>
             <p class="ipsum_text">Ana etkinliklerimiz dışında yaptığımız diğer etkinlik ve projeler</p>
@@ -278,16 +280,19 @@
       <!-- contact section start -->
       <div class="footer_section layout_padding">
          <div class="container">
-            </div>
-            <section id="googleMap">
-               <iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/place/Hacettepe+Üniversitesi+İnşaat+Mühendisliği+Bölümü/@39.863926,32.7287886,16.5z/data=!4m5!3m4!1s0x14d34743faec3b1f:0x8cb17d3f84d41d76!8m2!3d39.8634743!4d32.7344785" style="border:0" allowfullscreen=""></iframe>
-               
-               <br><br>
-               </section>
-               </div>
-            </div>
+            <div id="googleMap" style="width:100%;height:400px"></div>
+            <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY&callback=myMap"></script>
          </div>
       </div>
+      <script>
+         function myMap() {
+         var mapProp= {
+           center:new google.maps.LatLng(51.508742,-0.120850),
+           zoom:5,
+         };
+         var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
+         }
+      </script>
       <!--  footer section end -->
       <!-- copyright section start -->
       <div class="copyright_section">
