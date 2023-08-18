@@ -140,6 +140,10 @@ h6,
     width: 10%;
 }
 
+.i-t {
+    margin-left: 10px;
+}
+
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
     width: 3rem;
